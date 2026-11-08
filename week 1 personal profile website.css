@@ -1,7 +1,12 @@
+body{
+    background-color:0F172A;
+    color:#F8FAFC;
+}
+
 .contact{
     text-align:center;
     padding:40px;
-    background-color: #f2f2f2;;
+    background-color: #f2f2f2;
 }
 .contact h2 {
     color:blue;
