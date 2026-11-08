@@ -1,11 +1,11 @@
 body{
-    background-color:0F172A;
-    color:#F8FAFC;
+    background-color:#E8EEF5;
+    color:#263445;
 }
 
 .contact{
     text-align:center;
-    padding:40px;
+    padding:40%;
     background-color: #f2f2f2;
 }
 .contact h2 {
@@ -39,5 +39,5 @@ width:20px;
     width:10px;
     height:20px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 20%;
  }
